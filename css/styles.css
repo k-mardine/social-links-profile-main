@@ -1,13 +1,17 @@
 body{
     background-color: #141414;
     text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
 }
 
 
 .container{
     width: 340px;
     background-color: #1f1f1f;
-    margin: 70px auto 0 ;
+    margin:  auto 0 ;
     border-radius: 0.5em;
     padding-bottom: 1em;
 }
